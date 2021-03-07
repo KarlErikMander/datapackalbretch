@@ -7,9 +7,9 @@
 \format{
 A data frame with ....... rows and .......... variables:
 \describe{
-\item{X}{ -------.}
 \item{effort}{Effort measured in -------.}
 \item{size}{Size measured in ....}
+
 }
 }
 \source{
